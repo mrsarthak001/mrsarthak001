@@ -1,4 +1,4 @@
-## Hey there! I'm Kshitiz.
+## Hey there! I'm Sarthak,
 
 ![Counter](https://profile-counter.glitch.me/mrsarthak001/count.svg)
 
