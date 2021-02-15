@@ -1,34 +1,88 @@
-<h1 align="center">Hi 👋, I'm Sarthak Jain</h1>
-<h3 align="center">Ideator | Creator | Innovator</h3>
+## Hey there! I'm Kshitiz.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsarthak001&label=Profile%20views&color=0e75b6&style=flat" alt="mrsarthak001" /> </p>
+![Counter](https://profile-counter.glitch.me/mrsarthak001/count.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsarthak001" alt="mrsarthak001" /></a> </p>
+### 👨🏻‍💻 &nbsp;About Me 
 
-- 🔭 I’m currently working on [Developer Assistant](https://github.com/mrsarthak001/Developer-Assistant)
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science with specialization in DevOps at University of Petroleum and Energy Studies.
+- 💼 &nbsp; Actively looking for a summer internship opportuinity.
+- 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Big Data.
+- ✍️ &nbsp; Co-Founder at [@dotquestionmark](https://www.linkedin.com/company/dot-questionmark).
 
-- 🌱 I’m currently learning **Cloud Computing, DevOps and Big Data.**
+<br>
+<a href="https://github.com/mrsarthak001">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsarthak001&" />
+</a>
+<br>
 
-- 📝 I regularly write articles on [https://hashnode.com/@dotsarthak](https://hashnode.com/@dotsarthak)
 
-- 💬 Actively looking for a **summer internship opportuinity**
+### 🛠 &nbsp;Tech Stack
 
-- 📫 How to reach me **mrsarthak001@gmail.com**
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-333333?style=flat&logo=shell)
+  <!-- ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
+  <!-- ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala) -->
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dotsarthak/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACJWXlMBb03jvorIKszjup7eFF5iKXUM-VY,1612979600202)/](https://www.linkedin.com/in/dotsarthak/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACJWXlMBb03jvorIKszjup7eFF5iKXUM-VY,1612979600202)/)
+<!-- - 🌐 &nbsp; -->
+  <!-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) -->
+  <!-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) -->
+  <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) -->
+  <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
+  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
+  <!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
 
-- ⚡ Fun fact **When most developer loves coffee😅 But, I prefer tea ❤️**
+<!-- - 🛢 &nbsp; -->
+  <!-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
+  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dotsarthak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dotsarthak" height="30" width="40" /></a>
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+  <!-- ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform) -->
+  <!-- ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus) -->
+  <!-- ![Puppet](https://img.shields.io/badge/-Puppet-333333?style=flat&logo=puppet) -->
+  <!-- ![Chef](https://img.shields.io/badge/-Chef-333333?style=flat&logo=chef) -->
+  <!-- ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana) -->
+
+<!-- - 🔧 &nbsp;
+  ![Dev Ops](https://img.shields.io/badge/-Dev%20Ops-333333)
+  ![Big Data](https://img.shields.io/badge/-Big%20Data-333333)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
+
+- 🖥 &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+  <!-- ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft) -->
+  <!-- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google) -->
+  <!-- ![Open Stack](https://img.shields.io/badge/-Open%20Stack-333333?style=flat&logo=openstack) -->
+  <!-- ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce) -->
+
+<br>
+
+<a href="https://github.com/kshitizsaini113">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitizsaini113&theme=buefy&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizsaini113&theme=buefy&layout=compact" />
+</a>
+
+
+
+<br>
+<br>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<!-- <a href="https://www.sarthakjain.com"><img src="https://img.shields.io/badge/-kshitizsaini.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/dotsarthak/"><img src="https://img.shields.io/badge/-Sarthak%20Jain-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mrsarthak001@gmail.com"><img src="https://img.shields.io/badge/-mrsarthak001@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsarthak001&show_icons=true&locale=en&layout=compact" alt="mrsarthak001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsarthak001&show_icons=true&locale=en" alt="mrsarthak001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsarthak001&" alt="mrsarthak001" /></p>
