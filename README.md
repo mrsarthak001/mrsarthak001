@@ -4,11 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science with specialization in DevOps at University of Petroleum and Energy Studies.
-- 💼 &nbsp; Actively looking for a summer internship opportuinity.
-- 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Big Data.
-- ✍️ &nbsp; Co-Founder at [@dotquestionmark](https://www.linkedin.com/company/dot-questionmark).
+-  🤔 Building and scaling developer communities while exploring emerging technologies across AI, DevTools, and Cloud.
+-  🎓 Computer Science student (DevOps specialization) at University of Petroleum and Energy Studies.
+- 💼 Founder at DevAarambh — empowering 100K+ developers across 20+ cities through community-led learning, events, and hiring initiatives.
+- 🚀 Working at the intersection of Developer Relations, community growth, and ecosystem partnerships.
+- 🌱 Deep diving into Cloud, DevOps, Graph Databases, and AI-driven developer experiences.
+- ✍️ Previously Co-Founder at dotquestionmark | Now focused on building scalable developer ecosystems and opportunities.
 
 <br>
 <a href="https://github.com/mrsarthak001">
